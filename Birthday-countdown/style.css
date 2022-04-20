@@ -15,7 +15,7 @@ body{
     color: white;
     font-family: "poppins" sans-serif;
     text-align: center;
-    /* height: 750px; */
+
     
     
 }
@@ -46,15 +46,15 @@ p{
 @media screen and (max-width:960px) {
     body{
         padding: 20px;
-        /* height: 900px; */
+        height: 950px;
     }
 
 }
 
-@media screen and (max-width:490px) {
+@media screen and (max-width:414px) {
     body{
         padding: 20px;
-        /* height: 800px; */
+        height: 750px;
     }
     h1{
     
